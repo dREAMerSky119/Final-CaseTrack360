@@ -18,7 +18,8 @@ load_dotenv(Path(__file__).resolve().parent / ".env", override=False)
 
 BASE_DIR = Path(__file__).resolve().parent
 app = Flask(__name__, instance_path=str(BASE_DIR / "instance"), instance_relative_config=True)
-Path(app.instance_path).mkdir(parents=True, exist_ok=True)
+if not os.environ.get("VERCEL"):
+    Path(app.instance_path).mkdir(parents=True, exist_ok=True)
 
 # Vercel production should provide DATABASE_URL (hosted PostgreSQL). Keep SQLite
 # as the default only for local development. Neon connection strings commonly
