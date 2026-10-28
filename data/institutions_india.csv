@@ -1,0 +1,31 @@
+﻿id,name,type,state,city,status,data_source,is_mock
+IN-001,Veermata Jijabai Technological Institute (VJTI),Engineering College,Maharashtra,Mumbai,Active,REAL_INDIAN_INSTITUTION_NAME_SYNTHETIC_CASES,True
+IN-002,Indian Institute of Technology Bombay,Institute of National Importance,Maharashtra,Mumbai,Active,REAL_INDIAN_INSTITUTION_NAME_SYNTHETIC_CASES,True
+IN-003,Vivekanand Education Society's Institute of Technology (VESIT),Engineering College,Maharashtra,Mumbai,Active,REAL_INDIAN_INSTITUTION_NAME_SYNTHETIC_CASES,True
+IN-004,College of Engineering Pune (COEP Technological University),Engineering University,Maharashtra,Pune,Active,REAL_INDIAN_INSTITUTION_NAME_SYNTHETIC_CASES,True
+IN-005,Indian Institute of Technology Delhi,Institute of National Importance,Delhi,New Delhi,Active,REAL_INDIAN_INSTITUTION_NAME_SYNTHETIC_CASES,True
+IN-006,National Institute of Technology Tiruchirappalli,Institute of National Importance,Tamil Nadu,Tiruchirappalli,Active,REAL_INDIAN_INSTITUTION_NAME_SYNTHETIC_CASES,True
+IN-007,Anna University,State University,Tamil Nadu,Chennai,Active,REAL_INDIAN_INSTITUTION_NAME_SYNTHETIC_CASES,True
+IN-008,Indian Institute of Technology Madras,Institute of National Importance,Tamil Nadu,Chennai,Active,REAL_INDIAN_INSTITUTION_NAME_SYNTHETIC_CASES,True
+IN-009,"National Institute of Technology Karnataka, Surathkal",Institute of National Importance,Karnataka,Mangaluru,Active,REAL_INDIAN_INSTITUTION_NAME_SYNTHETIC_CASES,True
+IN-010,Indian Institute of Science,Research Institute,Karnataka,Bengaluru,Active,REAL_INDIAN_INSTITUTION_NAME_SYNTHETIC_CASES,True
+IN-011,Indian Institute of Technology Hyderabad,Institute of National Importance,Telangana,Sangareddy,Active,REAL_INDIAN_INSTITUTION_NAME_SYNTHETIC_CASES,True
+IN-012,University of Hyderabad,Central University,Telangana,Hyderabad,Active,REAL_INDIAN_INSTITUTION_NAME_SYNTHETIC_CASES,True
+IN-013,National Institute of Technology Warangal,Institute of National Importance,Telangana,Warangal,Active,REAL_INDIAN_INSTITUTION_NAME_SYNTHETIC_CASES,True
+IN-014,Indian Institute of Technology Kanpur,Institute of National Importance,Uttar Pradesh,Kanpur,Active,REAL_INDIAN_INSTITUTION_NAME_SYNTHETIC_CASES,True
+IN-015,Banaras Hindu University,Central University,Uttar Pradesh,Varanasi,Active,REAL_INDIAN_INSTITUTION_NAME_SYNTHETIC_CASES,True
+IN-016,Indian Institute of Technology Roorkee,Institute of National Importance,Uttarakhand,Roorkee,Active,REAL_INDIAN_INSTITUTION_NAME_SYNTHETIC_CASES,True
+IN-017,Indian Institute of Technology Kharagpur,Institute of National Importance,West Bengal,Kharagpur,Active,REAL_INDIAN_INSTITUTION_NAME_SYNTHETIC_CASES,True
+IN-018,Jadavpur University,State University,West Bengal,Kolkata,Active,REAL_INDIAN_INSTITUTION_NAME_SYNTHETIC_CASES,True
+IN-019,National Institute of Technology Rourkela,Institute of National Importance,Odisha,Rourkela,Active,REAL_INDIAN_INSTITUTION_NAME_SYNTHETIC_CASES,True
+IN-020,Indian Institute of Technology Guwahati,Institute of National Importance,Assam,Guwahati,Active,REAL_INDIAN_INSTITUTION_NAME_SYNTHETIC_CASES,True
+IN-021,Delhi Technological University,State University,Delhi,New Delhi,Active,REAL_INDIAN_INSTITUTION_NAME_SYNTHETIC_CASES,True
+IN-022,Jamia Millia Islamia,Central University,Delhi,New Delhi,Active,REAL_INDIAN_INSTITUTION_NAME_SYNTHETIC_CASES,True
+IN-023,Aligarh Muslim University,Central University,Uttar Pradesh,Aligarh,Active,REAL_INDIAN_INSTITUTION_NAME_SYNTHETIC_CASES,True
+IN-024,Indian Institute of Technology Gandhinagar,Institute of National Importance,Gujarat,Gandhinagar,Active,REAL_INDIAN_INSTITUTION_NAME_SYNTHETIC_CASES,True
+IN-025,Sardar Vallabhbhai National Institute of Technology Surat,Institute of National Importance,Gujarat,Surat,Active,REAL_INDIAN_INSTITUTION_NAME_SYNTHETIC_CASES,True
+IN-026,Indian Institute of Technology Indore,Institute of National Importance,Madhya Pradesh,Indore,Active,REAL_INDIAN_INSTITUTION_NAME_SYNTHETIC_CASES,True
+IN-027,Maulana Azad National Institute of Technology Bhopal,Institute of National Importance,Madhya Pradesh,Bhopal,Active,REAL_INDIAN_INSTITUTION_NAME_SYNTHETIC_CASES,True
+IN-028,National Institute of Technology Calicut,Institute of National Importance,Kerala,Kozhikode,Active,REAL_INDIAN_INSTITUTION_NAME_SYNTHETIC_CASES,True
+IN-029,Indian Institute of Technology Bhubaneswar,Institute of National Importance,Odisha,Bhubaneswar,Active,REAL_INDIAN_INSTITUTION_NAME_SYNTHETIC_CASES,True
+IN-030,National Institute of Technology Patna,Institute of National Importance,Bihar,Patna,Active,REAL_INDIAN_INSTITUTION_NAME_SYNTHETIC_CASES,True
